@@ -24,3 +24,4 @@ To actually run the program you need `mspdebug` and have to write the address of
 
 For more information, see [this blog post](https://aboutembedded.wordpress.com/2016/11/16/rust-for-msp430/).
 
+Above link is no longer working { Tue 21 Nov 2023 19:41:53 }, see [this blog post](https://aboutembedded.wordpress.com/2016/11/16/rust-for-msp430/).
